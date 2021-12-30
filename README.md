@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @anniemon
-<!--- 👀 I’m interested in -->
-- 🌱 I’m currently learning **Javascript & React**
+- 👀 I graduated from Codestates Software Engineering Bootcamp 33
+- 🌱 I’m looking forward to word as a FE or BE developer using **Javascript**
 <!--- 💞️ I’m looking to collaborate on ...-->
-<!-- - 📫 How to reach me ... -->
+- 📫 If you're interested, please visit my [Blog](https://devsomehow.tistory.com/)
 
 <!---
 anniemon/anniemon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
