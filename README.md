@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @anniemon
-- 👀 I graduated from Codestates Software Engineering Bootcamp 33
-- 🌱 I’m looking forward to work as a Javascript Frontend or Backend developer
+- 🌱 I work as a Javascript engineer at Codestates Software Engineering Bootcamp
 <!--- 💞️ I’m looking to collaborate on ...-->
 - 📫 If you're interested, please visit my [Blog](https://devsomehow.tistory.com/)
 
