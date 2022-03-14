@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anniemon
-- 🌱 I work as a Javascript engineer at Codestates Software Engineering Bootcamp
+- 🌱 I'm working as an educational software engineer at Codestates Software Engineering Bootcamp
 <!--- 💞️ I’m looking to collaborate on ...-->
 - 📫 If you're interested, please check my recent project [Meal-To-Meal](https://www.mealtomeal.shop/)
 
