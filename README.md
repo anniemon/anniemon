@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anniemon
-- 🌱 I'm a junior Javascript developer.
+- 🌱 I'm a junior Javascript/Typescript developer.
 <!--- 💞️ I’m looking to collaborate on ...-->
 - 📫 If you're interested, please check my recent project [Meal-To-Meal](https://www.mealtomeal.shop/)
 
