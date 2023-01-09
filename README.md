@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anniemon
-- 🌱 I'm a junior Javascript/Typescript developer.
+- 🌱 I'm a junior Javascript/Typescript backend developer.
 <!--- 💞️ I’m looking to collaborate on ...-->
-- 📫 If you're interested, please check my recent project [Meal-To-Meal](https://www.mealtomeal.shop/)
+- Currently, I am translating the fastify framework official documentation into Korean. https://github.com/fastify/docs-korean
 
 <!---
 anniemon/anniemon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
